@@ -18,7 +18,7 @@ MerkmalNr,Merkmalcluster,Bezeichnung,Preis
 300002,3,Weiss uni,15.00
 300003,3,Blau uni,50.00
 300004,3,Schwarz metallic,29.00
-300005,3,Weiﬂ metallic,29.00
+300005,3,Weiss metallic,29.00
 300006,3,Rot metallic,65.00
 300007,3,Blau metallic,70.00
 300008,3,Keine Lackierung,0.00
@@ -26,7 +26,7 @@ MerkmalNr,Merkmalcluster,Bezeichnung,Preis
 400002,4,Lenker Komfort,15.00
 400003,4,Lenker Retro,18.90
 400004,4,Rennradlenker,37.99
-400005,4,Lenker Standard mit H√∂rnern,48.99
+400005,4,Lenker Standard mit Hoernern,48.99
 400006,4,Lenker Komfort mit Sportklingel,19.49
 400007,4,Lenker Retro mit Hupe,21.70
 400008,4,Rennradlenker ohne Klingel,30.00
