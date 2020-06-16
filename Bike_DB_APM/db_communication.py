@@ -312,8 +312,8 @@ class db_communication:
             "`VorgaengerNr` INTEGER",
             "`NachfolgerNr` INTEGER",
             "PRIMARY KEY (`VorgaengerNr`,`NachfolgerNr`)",
-            "FOREIGN KEY (`VorgaengerNr`) REFERENCES `Arbeitsschritt`(`SchrittNr`)",
-            "FOREIGN KEY (`NachfolgerNr`) REFERENCES `Arbeitsschritt`(`SchrittNr`)"
+            "FOREIGN KEY (`VorgaengerNr`) REFERENCES `Arbeitsschrittgruppe`(`ArbeitsschrittgruppeNr`)",
+            "FOREIGN KEY (`NachfolgerNr`) REFERENCES `Arbeitsschrittgruppe`(`ArbeitsschrittgruppeNr`)"
         ]
 
         if are_u_sure:
