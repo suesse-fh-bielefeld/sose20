@@ -1,26 +1,26 @@
 ArbeitsschrittgruppeNr,Bezeichnung,Optional,Merkmalcluster
-1,Rahmen,False,1
-2,Federung,False,2
-3,Gepaecktraeger,True,1
-4,Lackieren,False,3
-5,Lichtanlage,False,10
-6,Sattel,False,8
-7,Bremsscheibe,True,9
-8,Lenker,False,4
-9,Tretkurbel,False,7
-10,Vorderrad Felge,False,5
-11,Hinterrad Felge,False,5
-12,Vorderrad Reifen,False,6
-13,Hinterrad Reifen,False,6
-14,Triggerschalter,True,7
-15,Pedale,False,11
-16,Dynamo,True,10
-17,Schutzblech vorne,False,1
-18,Schutzblech hinten,False,1
-19,Kassette/Ritzel,True,7
-20,Bremshebel,False,9
-21,Umschwenker,False,7
-22,Griffe/Lenkerband,False,4
-23,Klingel,True,4
-24,Kette,False,7
-25,Kettenschutz,True,7
+1,Rahmen,0,1
+2,Federung,0,2
+3,Gepaecktraeger,1,1
+4,Lackieren,0,3
+5,Lichtanlage,0,10
+6,Sattel,0,8
+7,Bremsscheibe,1,9
+8,Lenker,0,4
+9,Tretkurbel,0,7
+10,Vorderrad Felge,0,5
+11,Hinterrad Felge,0,5
+12,Vorderrad Reifen,0,6
+13,Hinterrad Reifen,0,6
+14,Triggerschalter,1,7
+15,Pedale,0,11
+16,Dynamo,1,10
+17,Schutzblech vorne,0,1
+18,Schutzblech hinten,0,1
+19,Kassette/Ritzel,1,7
+20,Bremshebel,0,9
+21,Umschwenker,0,7
+22,Griffe/Lenkerband,0,4
+23,Klingel,1,4
+24,Kette,0,7
+25,Kettenschutz,1,7
