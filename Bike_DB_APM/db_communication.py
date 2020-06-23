@@ -309,10 +309,10 @@ class db_communication:
         ]
         
         config_reihenfolgevorgabe = [
-            "`VorgaengerNr` INTEGER",
+            "`AktuelleNr` INTEGER",
             "`NachfolgerNr` INTEGER",
-            "PRIMARY KEY (`VorgaengerNr`,`NachfolgerNr`)",
-            "FOREIGN KEY (`VorgaengerNr`) REFERENCES `Arbeitsschrittgruppe`(`ArbeitsschrittgruppeNr`)",
+            "PRIMARY KEY (`AktuelleNr`,`NachfolgerNr`)",
+            "FOREIGN KEY (`AktuelleNr`) REFERENCES `Arbeitsschrittgruppe`(`ArbeitsschrittgruppeNr`)",
             "FOREIGN KEY (`NachfolgerNr`) REFERENCES `Arbeitsschrittgruppe`(`ArbeitsschrittgruppeNr`)"
         ]
 
