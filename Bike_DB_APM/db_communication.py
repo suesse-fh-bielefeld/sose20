@@ -55,7 +55,7 @@ class db_communication:
             'password': 'FDS-apm1',
             'host': 'min-ifm-xdm.ad.fh-bielefeld.de',
             'port': '3306',
-            'database': 'FDS-APM'
+            'database': 'Fahrradshop'
             }
 
         try:
