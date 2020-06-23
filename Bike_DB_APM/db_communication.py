@@ -186,7 +186,7 @@ class db_communication:
         
     def storno(self, key):
         """
-        Datenbank spezifische Funktion.
+        Datenbank spezifische Funktion für die Vorgängerversion des Projektes.
         Eine existierende Bestellung wird stoniert, identifiziert an dem 'key' == 'Bestellung.id'. 
         Die Spalte "Storniert" wird auf True gesetzt.
         """
