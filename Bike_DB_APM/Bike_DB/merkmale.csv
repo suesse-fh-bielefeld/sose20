@@ -13,7 +13,6 @@ MerkmalNr,Merkmalcluster,Bezeichnung,Preis
 200003,2,Trekkingfederung Komfort,285.99
 200004,2,Gelaendefederung Standard,268.99
 200005,2,Gelaendefederung Extrem,1199.99
-200006,2,Keine Federung,0.00
 300001,3,Schwarz uni,10.00
 300002,3,Weiss uni,15.00
 300003,3,Blau uni,50.00
@@ -21,7 +20,6 @@ MerkmalNr,Merkmalcluster,Bezeichnung,Preis
 300005,3,Weiss metallic,29.00
 300006,3,Rot metallic,65.00
 300007,3,Blau metallic,70.00
-300008,3,Keine Lackierung,0.00
 400001,4,Lenker Standard,12.90
 400002,4,Lenker Komfort,15.00
 400003,4,Lenker Retro,18.90
